@@ -8,5 +8,6 @@ My LinkedIn profile: [Bill Liu](https://www.linkedin.com/in/bill-liu-452279372/)
 ***
 
 ## Skills and Technologies
-👨‍💻 Programming languages
-Bash C C++ CSS HTML Java JavaScript Markdown Node.js PHP Python SASS SQL TypeScript
+* Programming languages: Bash, Markdown, C/C++, HTML, CSS, JavaScript, PHP, SQL, Python
+* Frameworks and libraries: Bootstrap, Arduino, React, NumPy, Pandas
+* Content Management System (CMS): WordPress
